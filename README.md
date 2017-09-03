@@ -40,13 +40,15 @@ NativeDoc 3, and mark them as you didn't introduced a regression.
 
 # How to contribute?
 
-Due to his work, the original author "Damien Girard" is very very busy, but if you
+Due to his work, the original author "Damien Girard" is busy, but if you
 are an experienced LiveCode and DataTree developper, then don't hesitate
 to reach him on GitHub to become a main contributor to the project.
 
-GitHub page: https://github.com/dagirard/datatree
+GitHub page: https://github.com/dagirard/DataTree
 
 # License
 
 DataTree is under the MIT license.
 A complete copy is available in the file LICENSE.TXT
+
+NativeSoft, DataTree, NativeDoc, NativeGeometry, the NativeSoft logo, the DataTree logo, the NativeGeometry logo, the NativeDoc logo, NativeSpeak, are registered trademarks of Damien André Edouard Girard, registered in France and other countries.
