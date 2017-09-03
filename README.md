@@ -31,7 +31,7 @@ Then call in your initialization procedure:
 # Tests
 
 DataTree doesn't have an automated test suite. For each release a set of manual tests cases
-need to be executed, and the most important one is to have NativeDoc 3 to run flawlessly.
+need to be executed, and the most important one is to have [NativeDoc 3](https://github.com/dagirard/NativeDoc) to run flawlessly.
 
 Before a push request can be made, you will have to perform manual tests with
 NativeDoc 3, and mark them as you didn't introduced a regression.
