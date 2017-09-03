@@ -13,10 +13,13 @@ You can locate the user extensions folder by doing so:
 1. Open LiveCode preferences
 2. In the Files & Memory preferences pane you can find the full path to the User Extensions folder. 
 3. Open this folder in your system file browser.
-4. If it doesn't exists, create a "Plugins" subfolder.
-5. Extract DataTree into the "Plugins" subfolder.
+4. If it doesn't exists, create a **"Plugins"** subfolder.
+5. Extract DataTree into the **"Plugins"** subfolder.
+6. Start LiveCode and the DataTree plugin window will be displayed
 
-**Make sure that "rev_DataTree_Launcher.rev" file is at the root of the extension folder, LiveCode will automatically execute this file that will load DataTree.**
+**Make sure that "rev_DataTree_Launcher.rev" file is at the root of the Plugins folder, LiveCode will automatically execute this file that will load DataTree.**
+
+** Re
 
 # Documentation
 
