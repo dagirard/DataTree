@@ -38,15 +38,11 @@ The first one is to have all the samples in the Arboretum to work perfectly.
 
 Then the second most important is to have [NativeDoc](https://github.com/dagirard/NativeDoc) to run flawlessly.
 
-Before a push request can be made, you will have to perform manual tests with the arboretum and NativeDoc, and mark them as you didn't introduced a regression.
-
 # How to contribute?
 
-If you wish to contribute to development of DataTree, you must sign the [Contributor's Agreement](http://www.nativesoft.net/oss/contribute).  This agreement is required because the DataTree project is dual-licensed both under the GPLv3 and a commercial (closed-source) license; you need to give Damien Girard permission to use your submissions in this way.
-
-**Note:** Any pull-requests from individuals who have not signed this agreement will be refused.
-
 The workflow is a typical git workflow, where contributors fork the [dagirard/DataTree](https://github.com/dagirard/datatree) repository, make their changes on a branch, and then submit a pull request.
+
+**Note:** Before a push request can be made, you will have to perform manual tests with the arboretum and NativeDoc, and mark them as you didn't introduced a regression.
 
 # License
 
